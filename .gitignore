@@ -1,0 +1,3 @@
+*.exe     // Executables in C and C++
+*.class   //  Executables in Java
+*.py[cod]      //  Executables in Python
