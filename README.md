@@ -194,7 +194,7 @@ print(n + 9999)
 print(n * 9999)
 ```
 
-#### I now the code will be easy in deffrant languges 😂 but in hard way you will learn how to think to solve this problemlike in c/c++ not like python The goal is to learn to solve problems not to solve them quickly and that was problem solving world.
+#### I Know the code will be easy in different languages 😂 but in hard way you will learn how to think to solve this problem like in c/c++ not like python The goal is to learn to solve problems not to solve them quickly and that was problem solving world.
 
 ## my codeforces handle 👇:
   <a href="https://codeforces.com/profile/Badawi010/">
