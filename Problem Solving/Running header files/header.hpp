@@ -22,10 +22,4 @@ using namespace std;
 #define vpll vector <pair <long , long> >
 
 
-void Badawi(){
-  ios_base::sync_with_stdio(false), cin.tie(nullptr), cout.tie(nullptr);
-  #ifndef ONLINE_JUDGE
-    freopen("input.txt", "r", stdin),
-    freopen("output.txt", "w", stdout);
-  #endif
-}
+void Badawi();
