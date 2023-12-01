@@ -1,4 +1,5 @@
-#pragma once
+#ifndef HEADER_H_
+#define HEADER_H_
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -23,3 +24,5 @@ using namespace std;
 
 
 void Badawi();
+
+#endif
